@@ -1,0 +1,12 @@
+@media (max-width: 760px) {
+  .float-left.servico {
+    width: 100% !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .rounded-circle.shadow.float-right.float-sm-right.float-md-right.float-lg-right.float-xl-right {
+    display: none;
+  }
+}
+
